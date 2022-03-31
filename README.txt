@@ -7,3 +7,4 @@ psoNLP3.m: Non-linear optimization using MATLAB fmincon with non-linear constrai
 EDbasic contains code on solution of basic economic dispatch problem
 EEDmo contains the code for solution of multi-objective EED problem
 git_HTS contains code for Hydro-thermal scheduling using fmincon
+META folder contains implementation of PSO, DE, TLBO, ABC and Genetic Algorithms for standard functions. 
